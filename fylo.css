@@ -645,6 +645,12 @@ footer ul li a{
 
 }
 
+@media all and (max-width: 779px) and (min-width: 500px){
+    body{
+        display: none;
+    }
+}
+
 @media all and (max-width: 560px){
     body{
         font-size: .6em;
